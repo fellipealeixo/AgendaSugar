@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Aplicação Agenda Sugar</string>
+
+    <string name="titulo">Contatos Cadastrados</string>
+    <string name="btnNovo">Novo</string>
+    <string name="btnFechar">Fechar</string>
+
+    <string name="tituloForm">Cadastro de Novo Contato</string>
+    <string name="fieldNome">Nome: </string>
+    <string name="fieldPrefixo">Prefixo: </string>
+    <string name="fieldNumero">Número: </string>
+    <string name="btnNovoFone">Telefone Adicional</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="btnVoltar">Voltar</string>
+
+    <string name="btnLigar">Ligar</string>
+
+    <string name="alertTitulo">Remoção de Contato</string>
+    <string name="alertMensagem">Confirma remoção do contato: </string>
+    <string name="alertOk">OK</string>
+    <string name="alertCancel">Cancela</string>
+
+</resources>
